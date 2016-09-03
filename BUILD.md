@@ -11,4 +11,5 @@ git submodule add --name digitalrounin__pythonista-fileserver https://github.com
 
 git submodule add --name cclauss__Pythonista-and-Working-Copy https://github.com/cclauss/Pythonista-and-Working-Copy.git cclauss__Pythonista-and-Working-Copy
 
+git submodule add --name Pythonista-Tools https://github.com/Pythonista-Tools/Pythonista-Tools.git Pythonista-Tools
 ```

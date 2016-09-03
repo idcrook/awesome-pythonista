@@ -10,3 +10,6 @@
 [submodule "cclauss__Pythonista-and-Working-Copy"]
 	path = cclauss__Pythonista-and-Working-Copy
 	url = https://github.com/cclauss/Pythonista-and-Working-Copy.git
+[submodule "Pythonista-Tools"]
+	path = Pythonista-Tools
+	url = https://github.com/Pythonista-Tools/Pythonista-Tools.git
