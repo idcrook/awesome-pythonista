@@ -39,3 +39,14 @@ Helpful, related Apps!
  - `Pythonista-Tools`
    - https://github.com/Pythonista-Tools/Pythonista-Tools
    - The **ONE to rule them all**. Tries to maintain categorized [collection of pointers](http://pythonista-tools.github.io/Pythonista-Tools/) to Pythonista utilities
+
+ - `pythonista-tools-installer`
+   - https://github.com/ywangd/pythonista-tools-installer
+   - Useful Pythonista GUI app for getting the `Pythonista-Tools` scripts
+   
+ - `spencerogden__gistcheck`
+   - https://gist.github.com/4702275.git 
+   - A GitHub gist library that will create additional related `.py` commands
+     in same directory when run
+     
+
