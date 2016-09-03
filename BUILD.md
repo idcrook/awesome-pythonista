@@ -15,5 +15,6 @@ git submodule add --name Pythonista-Tools https://github.com/Pythonista-Tools/Py
 
 git submodule add --name pythonista-tools-installer  https://github.com/ywangd/pythonista-tools-installer.git pythonista-tools-installer
 
+git submodule add --name spencerogden__gistcheck https://gist.github.com/4702275.git spencerogden__gistcheck
 
 ```

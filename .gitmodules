@@ -16,3 +16,6 @@
 [submodule "pythonista-tools-installer"]
 	path = pythonista-tools-installer
 	url = https://github.com/ywangd/pythonista-tools-installer.git
+[submodule "spencerogden__gistcheck"]
+	path = spencerogden__gistcheck
+	url = https://gist.github.com/4702275.git
