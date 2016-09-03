@@ -1,0 +1,12 @@
+[submodule "dhutchison__PythonistaScripts"]
+	path = dhutchison__PythonistaScripts
+	url = https://github.com/dhutchison/PythonistaScripts.git
+[submodule "psidnell__Pythonista"]
+	path = psidnell__Pythonista
+	url = https://github.com/psidnell/Pythonista.git
+[submodule "digitalrounin__pythonista-fileserver"]
+	path = digitalrounin__pythonista-fileserver
+	url = https://github.com/digitalrounin/pythonista-fileserver.git
+[submodule "cclauss__Pythonista-and-Working-Copy"]
+	path = cclauss__Pythonista-and-Working-Copy
+	url = https://github.com/cclauss/Pythonista-and-Working-Copy.git
