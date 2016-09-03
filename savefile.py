@@ -22,8 +22,7 @@ if p.netloc.startswith('gist.github.com'):
 			filename=f['filename']
 			console.hud_alert('writing '+filename)
 			content=f['content']
-			with open(os.path.join(destpath,filename),'w') as file:
-				file.write(content)
+			with open(os.path.join(destpath,filename),'wb') as file:
 				file.write(bytes(content, 'utf8'))
 	else:
 		console.hud_alert('could not download')
