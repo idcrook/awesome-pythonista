@@ -13,6 +13,6 @@
 [submodule "Pythonista-Tools"]
 	path = Pythonista-Tools
 	url = https://github.com/Pythonista-Tools/Pythonista-Tools.git
-[submodule "ywangd__pythonista-tools-installer"]
+[submodule "pythonista-tools-installer"]
 	path = pythonista-tools-installer
 	url = https://github.com/ywangd/pythonista-tools-installer.git

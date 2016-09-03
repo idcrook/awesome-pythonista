@@ -13,7 +13,7 @@ git submodule add --name cclauss__Pythonista-and-Working-Copy https://github.com
 
 git submodule add --name Pythonista-Tools https://github.com/Pythonista-Tools/Pythonista-Tools.git Pythonista-Tools
 
-git submodule add --name ywangd__pythonista-tools-installer  https://github.com/ywangd/pythonista-tools-installer.git pythonista-tools-installer
+git submodule add --name pythonista-tools-installer  https://github.com/ywangd/pythonista-tools-installer.git pythonista-tools-installer
 
 
 ```
