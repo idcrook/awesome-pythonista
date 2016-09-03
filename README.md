@@ -2,7 +2,6 @@
 
 Collection of Pythonista 3 (iOS app) scripts and things
 
-
 Requirements
 
 * [Pythonista for iOS](http://omz-software.com/pythonista/)
@@ -13,7 +12,11 @@ Helpful, related Apps!
 * Dropbox for [iPhone](https://www.dropbox.com/iphoneapp) / [iPad](https://www.dropbox.com/ipad) (cross-platform file sync)
 * [Workflow](https://workflow.is) (iOS Automation)
 
+## scripts at top-level
 
+ - `gistcheck.py` - GitHub gist library
+ - `read_from_working_copy_app.py` - receive files from Working Copy Git app
+ - `savefile.py` - Download file at URL
 
 
 ## Referenced repos
